@@ -4,7 +4,7 @@ import Head from "next/head";
 import Avatar from "../components/Avatar";
 
 import { MicrophoneIcon, ViewGridIcon } from "@heroicons/react/solid";
-import { SearchIcon } from "@heroIcons/react/outline";
+import { SearchIcon } from "@heroicons/react/outline";
 import Image from "next/image";
 import Footer from "../components/Footer";
 import { useRouter } from "next/router";
